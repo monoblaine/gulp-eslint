@@ -40,7 +40,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "eslint": "^4.0.0",
+    "eslint": "git+https://github.com/monoblaine/eslint.git",
     "gulp-util": "^3.0.8"
   },
   "devDependencies": {
